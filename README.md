@@ -1,3 +1,3 @@
-# Web-Multimedia-MM1014-E222
+# Web-Multimedia-MM<1014-E222
 
-# owo
+Group Assignment For Multimedia Web Development (MMM1014)
