@@ -8,6 +8,8 @@ Click at the <b>release</b> link on the right
 
 And click at the zip file to download the game :3
 
+
+
 ![Screenshot 2023-07-20 010051](https://github.com/Fwofy/Shock-Sem/assets/128760862/86055209-991d-445a-b26f-4a6319a55db3)
 
 # Shock Sem 2023 (Alpha Release 0.3)
