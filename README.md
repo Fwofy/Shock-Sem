@@ -1,4 +1,4 @@
-# Welcome To Shock Sem unofficial website
+# Welcome To Shock Sem Official GitHub
 
 Click at the <b>release</b> link on the right
 
