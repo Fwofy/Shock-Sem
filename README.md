@@ -1,10 +1,12 @@
 # Welcome To Shock Sem unofficial website
 
-Click at the <b>release</b> link on the right and click at the zip file to download the game :3
+Click at the <b>release</b> link on the right
 
 
 
 ![Screenshot 2023-07-20 010037](https://github.com/Fwofy/Shock-Sem/assets/128760862/f88144d3-2293-4d01-826d-a669c7e64df5)
+
+And click at the zip file to download the game :3
 
 ![Screenshot 2023-07-20 010051](https://github.com/Fwofy/Shock-Sem/assets/128760862/86055209-991d-445a-b26f-4a6319a55db3)
 
