@@ -19,7 +19,7 @@ And click at the zip file to download the game :3
 
 # Shock Sem 2023 (Alpha Release 0.4)
 
-<h4Bug Fixes</h4>
+<h4>Bug Fixes</h4>
 * Fixed player still take damage even duck at Level 2
 * Fixed music not looping in every Level
 
