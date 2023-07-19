@@ -23,7 +23,7 @@ And click at the zip file to download the game :3
 * Fixed player still take damage even duck at Level 2
 * Fixed music not looping in every Level
 
-<h2>New Addition</h2>
+<h4>New Addition</h4>
 * Add new intro for level 2 and 3
 * Rebalancing speed for enemy
 * Change ground enemy for Level 2
