@@ -1,6 +1,6 @@
 # Welcome To Shock Sem unofficial website
 
-Click at the <b>release<b> link on the right and click at the zip file to download the game :3
+Click at the <b>release</b> link on the right and click at the zip file to download the game :3
 
 
 
