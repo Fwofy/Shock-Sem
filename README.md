@@ -17,7 +17,7 @@ And click at the zip file to download the game :3
 * Fixed bug where credit can't be shown.
 
 
-# Shock Sem 2023 (Alpha Release 0.4)
+# Shock Sem 2023 (Release 1.0)
 
 <h4>Bug Fixes</h4>
 * Fixed player still take damage even duck at Level 2<br>
