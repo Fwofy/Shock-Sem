@@ -1,3 +1,9 @@
+# Welcome To Shock Sem unofficial website
+
+Click at the <b>release<b> link on the right and click at the zip file to download the game :3
+
+
+
 # Shock Sem 2023 (Alpha Release 0.3)
 
 * Fixed bug where credit can't be shown.
